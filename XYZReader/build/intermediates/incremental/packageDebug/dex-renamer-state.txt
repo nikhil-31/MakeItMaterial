@@ -1,0 +1,7 @@
+#Wed Nov 02 19:57:17 IST 2016
+base.0=F\:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad200c55ab8aeefa23753cb514036227353ab521
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52fbf86c944619db31af459d898091ea104533f0\\classes.dex
+base.1=F\:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_52fbf86c944619db31af459d898091ea104533f0
+file.0=F\:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad200c55ab8aeefa23753cb514036227353ab521\\classes.dex
