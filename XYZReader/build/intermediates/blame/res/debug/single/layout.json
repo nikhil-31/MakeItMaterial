@@ -8,32 +8,28 @@
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
@@ -124,28 +120,24 @@
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\layout\\activity_article_detail.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_list.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\layout\\activity_article_list.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_list.xml",
+        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\layout\\activity_article_list.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\layout_snackbar_include.xml"
+        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -186,10 +178,6 @@
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\layout_snackbar.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",

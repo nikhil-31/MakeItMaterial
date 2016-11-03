@@ -1,9 +1,5 @@
 [
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\drawable\\snackbar_background.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\padded_divider.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable\\padded_divider.xml"
     },
@@ -48,10 +44,6 @@
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -90,10 +82,6 @@
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -164,16 +152,8 @@
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable\\white_selectable_item_background_circle.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\drawable\\fab_background.xml"
     },
     {
         "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
