@@ -2762,6 +2762,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d004c;
         public static final int all=0x7f0d0032;
         public static final int always=0x7f0d0036;
+        public static final int app_bar_layout=0x7f0d007d;
         public static final int appbar=0x7f0d006f;
         public static final int article_body=0x7f0d0083;
         public static final int article_byline=0x7f0d0082;
@@ -2780,6 +2781,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0d002e;
         public static final int clip_vertical=0x7f0d002f;
         public static final int collapseActionView=0x7f0d0037;
+        public static final int collapsing_toolbar=0x7f0d007e;
         public static final int contentPanel=0x7f0d004d;
         public static final int custom=0x7f0d0053;
         public static final int customPanel=0x7f0d0052;
@@ -2816,7 +2818,6 @@ containing a value of this type.
         public static final int listMode=0x7f0d000b;
         public static final int list_item=0x7f0d0044;
         public static final int media_actions=0x7f0d008a;
-        public static final int meta_bar=0x7f0d0080;
         public static final int middle=0x7f0d0035;
         public static final int mini=0x7f0d0033;
         public static final int multiply=0x7f0d001b;
@@ -2828,7 +2829,6 @@ containing a value of this type.
         public static final int parallax=0x7f0d002c;
         public static final int parentPanel=0x7f0d0049;
         public static final int photo=0x7f0d007f;
-        public static final int photo_container=0x7f0d007e;
         public static final int pin=0x7f0d002d;
         public static final int progress_circular=0x7f0d0006;
         public static final int progress_horizontal=0x7f0d0007;
@@ -2842,7 +2842,6 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0d004e;
         public static final int scrollView=0x7f0d004f;
         public static final int scrollable=0x7f0d003c;
-        public static final int scrollview=0x7f0d007d;
         public static final int search_badge=0x7f0d0062;
         public static final int search_bar=0x7f0d0061;
         public static final int search_button=0x7f0d0063;
@@ -2882,6 +2881,7 @@ containing a value of this type.
         public static final int title=0x7f0d0046;
         public static final int title_template=0x7f0d004b;
         public static final int toolbar=0x7f0d0070;
+        public static final int toolbar1=0x7f0d0080;
         public static final int toolbar_container=0x7f0d006d;
         public static final int top=0x7f0d002b;
         public static final int topPanel=0x7f0d004a;

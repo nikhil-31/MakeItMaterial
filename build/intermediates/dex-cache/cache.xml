@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5074423de7400cf9b6acbdde388987b6363bebfc">
+        sha1="49e2827ed298d89f7dfe2aea3c9d024ee8742a65">
         <dex dex="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52fbf86c944619db31af459d898091ea104533f0\classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="2341b012b1ea23f9959d810177d9613adcd459f0">
+        sha1="95135838f0c4c60d4022b4bf8d2642da9847308f">
         <dex dex="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad200c55ab8aeefa23753cb514036227353ab521\classes.dex" />
     </item>
     <item

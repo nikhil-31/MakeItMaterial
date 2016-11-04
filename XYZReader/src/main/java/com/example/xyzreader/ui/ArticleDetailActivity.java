@@ -35,6 +35,8 @@ public class ArticleDetailActivity extends ActionBarActivity
 
     private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
+//    private View mUpButtonContainer;
+//    private View mUpButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,7 +75,7 @@ public class ArticleDetailActivity extends ActionBarActivity
                 updateUpButtonPosition();
             }
         });
-
+//
 //        mUpButtonContainer = findViewById(R.id.up_container);
 //
 //        mUpButton = findViewById(R.id.action_up);
@@ -83,8 +85,8 @@ public class ArticleDetailActivity extends ActionBarActivity
 //                onSupportNavigateUp();
 //            }
 //        });
-//
-//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
 //            mUpButtonContainer.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
 //                @Override
 //                public WindowInsets onApplyWindowInsets(View view, WindowInsets windowInsets) {
@@ -95,7 +97,7 @@ public class ArticleDetailActivity extends ActionBarActivity
 //                    return windowInsets;
 //                }
 //            });
-//        }
+        }
 
         if (savedInstanceState == null) {
             if (getIntent() != null && getIntent().getData() != null) {
