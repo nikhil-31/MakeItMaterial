@@ -1,4 +1,4 @@
-#Thu Nov 03 19:42:46 IST 2016
+#Thu Nov 03 22:33:55 IST 2016
 base.0=F\:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad200c55ab8aeefa23753cb514036227353ab521
 renamed.1=classes.dex
 renamed.0=classes2.dex
