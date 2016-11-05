@@ -11,6 +11,7 @@ import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.app.ShareCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.graphics.Palette;
@@ -56,7 +57,7 @@ public class ArticleDetailFragment extends Fragment implements
     private int mScrollY;
     private boolean mIsCard = false;
     private int mStatusBarFullOpacityBottom;
-
+    CollapsingToolbarLayout collapsingToolbar;
     Toolbar toolbar;
 
     /**
@@ -119,6 +120,7 @@ public class ArticleDetailFragment extends Fragment implements
         });
 
 
+
         /*  The code below stopped the up button from showing when the user scrolled past the ImageView which previously simulated a collapsing tooblar was past the image view */
 
 //        mScrollView = (ObservableScrollView) mRootView.findViewById(R.id.scrollview);
@@ -146,6 +148,9 @@ public class ArticleDetailFragment extends Fragment implements
                         .getIntent(), getString(R.string.action_share)));
             }
         });
+        collapsingToolbar = (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
+        collapsingToolbar.setExpandedTitleColor(getResources().getColor(R.color.transperent));
+
 
         bindViews();
         updateStatusBar();
@@ -197,6 +202,7 @@ public class ArticleDetailFragment extends Fragment implements
             mRootView.setVisibility(View.VISIBLE);
             mRootView.animate().alpha(1);
             titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
+            collapsingToolbar.setTitle(mCursor.getString(ArticleLoader.Query.TITLE));
             bylineView.setText(Html.fromHtml(
                     DateUtils.getRelativeTimeSpanString(
                             mCursor.getLong(ArticleLoader.Query.PUBLISHED_DATE),
