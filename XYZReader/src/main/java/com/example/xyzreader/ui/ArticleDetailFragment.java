@@ -120,22 +120,7 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        toolbar.inflateMenu(R.menu.menu_details);
 
-        toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
-            @Override
-            public boolean onMenuItemClick(MenuItem item) {
-
-                if (item.getItemId() == R.id.action_share) {
-                    startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(getActivity())
-                            .setType("text/plain")
-                            .setText("Some sample text")
-                            .getIntent(), getString(R.string.action_share)));
-                    return true;
-                }
-                return true;
-            }
-        });
 
 
         /*  The code below stopped the up button from showing when the user scrolled past the ImageView which previously simulated a collapsing tooblar was past the image view */
