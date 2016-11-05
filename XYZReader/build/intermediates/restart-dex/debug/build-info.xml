@@ -5,38 +5,26 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="245539158889194"
+    timestamp="247422963197303"
     token="-3214777781194846643"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="317" />
+        duration="270" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="63" />
+        duration="0" />
     <task
         name="verifier"
-        duration="30" />
+        duration="0" />
 
     <artifact
         location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
         type="RESOURCES" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
 
     <build
         timestamp="206740874934243"
@@ -56,20 +44,28 @@
         timestamp="245539158889194"
         verifier="R_CLASS_CHANGE" >
         <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
             location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
         <artifact
             location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="247036838020919"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
         <artifact
             location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="247422963197303"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
