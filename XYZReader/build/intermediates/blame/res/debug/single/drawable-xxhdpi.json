@@ -1,14 +1,14 @@
 [
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
     }
 ]

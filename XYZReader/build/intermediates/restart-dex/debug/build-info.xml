@@ -5,52 +5,32 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="254253342155372"
-    token="-3214777781194846643"
+    timestamp="23089219896675"
+    token="5347251105894321546"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="228" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="27" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
-
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-    <artifact
-        location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="254121798939260"
+        timestamp="21975668624479"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="C:\Program Files\Git\MakeItMaterial\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="254253342155372"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
+        timestamp="23089219896675"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

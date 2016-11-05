@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     }
 ]

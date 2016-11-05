@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\menu_details.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\menu\\menu_details.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "F:\\Android\\Android\\MakeItMaterial\\XYZReader\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\menu_details.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\src\\main\\res\\menu\\menu_details.xml"
     }
 ]
