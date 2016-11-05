@@ -44,12 +44,12 @@
         "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",

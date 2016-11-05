@@ -1,4 +1,4 @@
-#Sun Nov 06 02:23:32 IST 2016
+#Sun Nov 06 03:12:47 IST 2016
 base.0=C\:\\Program Files\\Git\\MakeItMaterial\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7a0160748008b3a56eb0e35c861673c4f764e02f
 renamed.1=classes2.dex
 renamed.0=classes.dex
