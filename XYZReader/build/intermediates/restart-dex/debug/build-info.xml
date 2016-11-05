@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="208194471776500"
+    timestamp="235394133307324"
     token="-3214777781194846643"
     verifier="COMPATIBLE" >
 
@@ -37,20 +37,27 @@
         timestamp="207627731682004"
         verifier="R_CLASS_CHANGE" >
         <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="231989459528862"
+        verifier="R_CLASS_CHANGE" >
         <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
         <artifact
             location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
         <artifact
-            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="208194471776500"
+        timestamp="235394133307324"
         verifier="COMPATIBLE" >
         <artifact
             location="F:\Android\Android\MakeItMaterial\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
