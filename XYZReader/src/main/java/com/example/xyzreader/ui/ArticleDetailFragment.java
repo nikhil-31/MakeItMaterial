@@ -121,7 +121,7 @@ public class ArticleDetailFragment extends Fragment implements
         collapsingToolbar = (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
         collapsingToolbar.setExpandedTitleColor(getResources().getColor(R.color.transperent));
 
-        bindViews();
+//        bindViews();
         return mRootView;
     }
 
