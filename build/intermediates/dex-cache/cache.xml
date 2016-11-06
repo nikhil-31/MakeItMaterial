@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7c182197c552b4864a851e3cf76415cbce6e4094">
+        sha1="5eefe53dc770ddd4c102ec068d71bd7677cf96f5">
         <dex dex="C:\Program Files\Git\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a0160748008b3a56eb0e35c861673c4f764e02f\classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="ccb71ec2d0e122c103cbf1a8a70dc31b01aac694">
+        sha1="23f8edf3fe6ef09844556a40f6dbabcaa11a23ba">
         <dex dex="C:\Program Files\Git\MakeItMaterial\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c787c9945ae3f536590cfb6d4d366350ef418d27\classes.dex" />
     </item>
     <item
